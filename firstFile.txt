@@ -1,7 +1,7 @@
 Line 1
 Maybe line 2
-Line 3
-Line 4 as you could guess
+Line 3 was modified
+Line 4 as you could guess was also modified
 5 obviously
 nothing better suits this line than 6
 Line 7
